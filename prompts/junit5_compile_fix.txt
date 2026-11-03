@@ -1,0 +1,59 @@
+You are a Java compilation expert. The following JUnit 5 test code has compilation errors that prevent it from being compiled into bytecode.
+
+ CRITICAL OUTPUT INSTRUCTION:
+- Generate ONLY pure Java test code
+- KEEP the original test class name (DO NOT change it)
+- Do NOT include any explanations, comments, or thinking process
+- Do NOT use <think> tags or any XML tags
+- Do NOT add any text before or after the Java code
+- Start directly with "package" declaration
+- End with the closing brace of the test class
+- The test class MUST contain at least one method annotated with @Test, and each @Test MUST include at least one assertion (org.junit.jupiter.api.Assertions)
+
+=== TARGET METHOD IMPLEMENTATION ===
+```java
+{method_implementation}
+```
+
+=== CONTEXT INFORMATION ===
+{context_text}
+
+=== FAILING TEST CODE ===
+```java
+{generated_test}
+```
+
+=== COMPILATION ERRORS ===
+```
+{compile_error}
+```
+
+=== COMPILATION FIX REQUIREMENTS ===
+1. PRIMARY GOAL: Make the code compile successfully (javac/mvn compile)
+2. Fix import statements - ensure all classes are properly imported:
+   - Use JUnit 5 imports: org.junit.jupiter.api.Test, org.junit.jupiter.api.BeforeEach, org.junit.jupiter.api.AfterEach
+   - Use JUnit 5 assertions: org.junit.jupiter.api.Assertions (static import recommended)
+   - Do NOT use JUnit 4 imports (org.junit.Test, org.junit.Before, org.junit.After)
+3. Fix annotations - use JUnit 5 annotations:
+   - @Test (from org.junit.jupiter.api.Test, NOT org.junit.Test)
+   - @BeforeEach (NOT @Before)
+   - @AfterEach (NOT @After)
+   - @BeforeAll (NOT @BeforeClass, must be static)
+   - @AfterAll (NOT @AfterClass, must be static)
+   - @Disabled for skipping tests
+4. Fix assertions - use JUnit 5 assertions:
+   - Assertions.assertEquals(expected, actual) (NOT Assert.assertEquals)
+   - Assertions.assertTrue(condition) (NOT Assert.assertTrue)
+   - Assertions.assertFalse(condition) (NOT Assert.assertFalse)
+   - Assertions.assertNull(object) (NOT Assert.assertNull)
+   - Assertions.assertNotNull(object) (NOT Assert.assertNotNull)
+   - Assertions.assertThrows(Exception.class, () -> {{...}}) for exception testing
+5. Fix syntax errors - correct Java language syntax issues
+6. Fix type errors - ensure type compatibility and casting
+7. Fix method signatures - match actual method names and parameters
+8. Fix dependency issues - ensure all required libraries are available
+9. Keep test logic structure intact - don't change the test intent
+10. Do NOT worry about test logic correctness - focus only on compilation
+11. Return ONLY the corrected Java code without explanations
+
+Fixed Test Code:

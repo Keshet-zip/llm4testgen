@@ -1,0 +1,49 @@
+You are a Java testing expert. The following JUnit 5 test code compiles successfully but fails during execution with runtime errors.
+
+CRITICAL OUTPUT INSTRUCTION:
+Generate ONLY pure Java test code
+Do NOT include any explanations, comments, or thinking process
+Do NOT use <think> tags or any XML tags
+Do NOT add any text before or after the Java code
+Start directly with "package" declaration
+End with the closing brace of the test class
+
+
+=== TARGET METHOD IMPLEMENTATION ===
+
+{method_implementation}
+=== CONTEXT INFORMATION ===
+{context_text}
+
+=== FAILING TEST CODE (Compiles but fails at runtime) ===
+
+{generated_test}
+=== RUNTIME ERRORS ===
+
+{runtime_error}
+=== ERROR ANALYSIS ===
+{error_analysis}
+
+=== RUNTIME FIX REQUIREMENTS ===
+1. PRIMARY GOAL: Make the test pass during execution
+2. Fix test logic errors - ensure assertions match expected behavior
+3. Fix mock configurations - use Mockito properly:
+   - Mockito: mock(), when(), verify(), doReturn(), doThrow()
+4. Fix null pointer exceptions - ensure objects are properly initialized
+5. Fix assertion errors - ensure expected values match actual values
+6. Fix exception handling - use Assertions.assertThrows() for expected exceptions
+7. Use JUnit 5 features correctly:
+   - @BeforeEach/@AfterEach for setup/teardown (runs before/after each test)
+   - @BeforeAll/@AfterAll for class-level setup/teardown (runs once, must be static)
+   - Assertions.* for assertions (org.junit.jupiter.api.Assertions)
+   - Assertions.assertThrows(Exception.class, () -> {{...}}) for exception testing
+   - @Timeout for timeout testing
+8. Fix test data - ensure test inputs are valid and realistic
+9. Fix timing issues - add proper waits or use @Timeout
+10. Keep test structure intact - maintain the original test intent
+11. Use reflection if needed to access private fields/methods
+12. Return ONLY the corrected Java code without explanations
+
+Please fix the error and return the whole fixed unit test. You can use JUnit 5, Mockito 3, and reflection. No explanation is needed.
+
+Fixed Test Code:

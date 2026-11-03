@@ -1,0 +1,202 @@
+{"index": 1, "class": "org.apache.commons.cli.AlreadySelectedException", "method": "getOption()", "full_signature": "org.apache.commons.cli.AlreadySelectedException.getOption()"}
+{"index": 2, "class": "org.apache.commons.cli.AlreadySelectedException", "method": "getOptionGroup()", "full_signature": "org.apache.commons.cli.AlreadySelectedException.getOptionGroup()"}
+{"index": 3, "class": "org.apache.commons.cli.AlreadySelectedException", "method": "<init>(OptionGroup, Option)", "full_signature": "org.apache.commons.cli.AlreadySelectedException.<init>(OptionGroup, Option)"}
+{"index": 4, "class": "org.apache.commons.cli.AlreadySelectedException", "method": "<init>(String)", "full_signature": "org.apache.commons.cli.AlreadySelectedException.<init>(String)"}
+{"index": 5, "class": "org.apache.commons.cli.Parser", "method": "parse(Options, String[])", "full_signature": "org.apache.commons.cli.Parser.parse(Options, String[])"}
+{"index": 6, "class": "org.apache.commons.cli.Parser", "method": "parse(Options, String[], boolean)", "full_signature": "org.apache.commons.cli.Parser.parse(Options, String[], boolean)"}
+{"index": 7, "class": "org.apache.commons.cli.Parser", "method": "parse(Options, String[], Properties)", "full_signature": "org.apache.commons.cli.Parser.parse(Options, String[], Properties)"}
+{"index": 8, "class": "org.apache.commons.cli.Parser", "method": "parse(Options, String[], Properties, boolean)", "full_signature": "org.apache.commons.cli.Parser.parse(Options, String[], Properties, boolean)"}
+{"index": 9, "class": "org.apache.commons.cli.Parser", "method": "processArgs(Option, ListIterator<String>)", "full_signature": "org.apache.commons.cli.Parser.processArgs(Option, ListIterator<String>)"}
+{"index": 10, "class": "org.apache.commons.cli.TypeHandler", "method": "createClass(String)", "full_signature": "org.apache.commons.cli.TypeHandler.createClass(String)"}
+{"index": 11, "class": "org.apache.commons.cli.TypeHandler", "method": "createDate(String)", "full_signature": "org.apache.commons.cli.TypeHandler.createDate(String)"}
+{"index": 12, "class": "org.apache.commons.cli.TypeHandler", "method": "createFile(String)", "full_signature": "org.apache.commons.cli.TypeHandler.createFile(String)"}
+{"index": 13, "class": "org.apache.commons.cli.TypeHandler", "method": "createFiles(String)", "full_signature": "org.apache.commons.cli.TypeHandler.createFiles(String)"}
+{"index": 14, "class": "org.apache.commons.cli.TypeHandler", "method": "createNumber(String)", "full_signature": "org.apache.commons.cli.TypeHandler.createNumber(String)"}
+{"index": 15, "class": "org.apache.commons.cli.TypeHandler", "method": "createObject(String)", "full_signature": "org.apache.commons.cli.TypeHandler.createObject(String)"}
+{"index": 16, "class": "org.apache.commons.cli.TypeHandler", "method": "createURL(String)", "full_signature": "org.apache.commons.cli.TypeHandler.createURL(String)"}
+{"index": 17, "class": "org.apache.commons.cli.TypeHandler", "method": "createValue(String, Class<T>)", "full_signature": "org.apache.commons.cli.TypeHandler.createValue(String, Class<T>)"}
+{"index": 18, "class": "org.apache.commons.cli.TypeHandler", "method": "createValue(String, Object)", "full_signature": "org.apache.commons.cli.TypeHandler.createValue(String, Object)"}
+{"index": 19, "class": "org.apache.commons.cli.TypeHandler", "method": "openFile(String)", "full_signature": "org.apache.commons.cli.TypeHandler.openFile(String)"}
+{"index": 20, "class": "org.apache.commons.cli.MissingOptionException", "method": "getMissingOptions()", "full_signature": "org.apache.commons.cli.MissingOptionException.getMissingOptions()"}
+{"index": 21, "class": "org.apache.commons.cli.MissingOptionException", "method": "<init>(List)", "full_signature": "org.apache.commons.cli.MissingOptionException.<init>(List)"}
+{"index": 22, "class": "org.apache.commons.cli.MissingOptionException", "method": "<init>(String)", "full_signature": "org.apache.commons.cli.MissingOptionException.<init>(String)"}
+{"index": 23, "class": "org.apache.commons.cli.OptionBuilder", "method": "create()", "full_signature": "org.apache.commons.cli.OptionBuilder.create()"}
+{"index": 24, "class": "org.apache.commons.cli.OptionBuilder", "method": "create(char)", "full_signature": "org.apache.commons.cli.OptionBuilder.create(char)"}
+{"index": 25, "class": "org.apache.commons.cli.OptionBuilder", "method": "create(String)", "full_signature": "org.apache.commons.cli.OptionBuilder.create(String)"}
+{"index": 26, "class": "org.apache.commons.cli.OptionBuilder", "method": "hasArg()", "full_signature": "org.apache.commons.cli.OptionBuilder.hasArg()"}
+{"index": 27, "class": "org.apache.commons.cli.OptionBuilder", "method": "hasArg(boolean)", "full_signature": "org.apache.commons.cli.OptionBuilder.hasArg(boolean)"}
+{"index": 28, "class": "org.apache.commons.cli.OptionBuilder", "method": "hasArgs()", "full_signature": "org.apache.commons.cli.OptionBuilder.hasArgs()"}
+{"index": 29, "class": "org.apache.commons.cli.OptionBuilder", "method": "hasArgs(int)", "full_signature": "org.apache.commons.cli.OptionBuilder.hasArgs(int)"}
+{"index": 30, "class": "org.apache.commons.cli.OptionBuilder", "method": "hasOptionalArg()", "full_signature": "org.apache.commons.cli.OptionBuilder.hasOptionalArg()"}
+{"index": 31, "class": "org.apache.commons.cli.OptionBuilder", "method": "hasOptionalArgs()", "full_signature": "org.apache.commons.cli.OptionBuilder.hasOptionalArgs()"}
+{"index": 32, "class": "org.apache.commons.cli.OptionBuilder", "method": "hasOptionalArgs(int)", "full_signature": "org.apache.commons.cli.OptionBuilder.hasOptionalArgs(int)"}
+{"index": 33, "class": "org.apache.commons.cli.OptionBuilder", "method": "isRequired()", "full_signature": "org.apache.commons.cli.OptionBuilder.isRequired()"}
+{"index": 34, "class": "org.apache.commons.cli.OptionBuilder", "method": "isRequired(boolean)", "full_signature": "org.apache.commons.cli.OptionBuilder.isRequired(boolean)"}
+{"index": 35, "class": "org.apache.commons.cli.OptionBuilder", "method": "withArgName(String)", "full_signature": "org.apache.commons.cli.OptionBuilder.withArgName(String)"}
+{"index": 36, "class": "org.apache.commons.cli.OptionBuilder", "method": "withDescription(String)", "full_signature": "org.apache.commons.cli.OptionBuilder.withDescription(String)"}
+{"index": 37, "class": "org.apache.commons.cli.OptionBuilder", "method": "withLongOpt(String)", "full_signature": "org.apache.commons.cli.OptionBuilder.withLongOpt(String)"}
+{"index": 38, "class": "org.apache.commons.cli.OptionBuilder", "method": "withType(Class<?>)", "full_signature": "org.apache.commons.cli.OptionBuilder.withType(Class<?>)"}
+{"index": 39, "class": "org.apache.commons.cli.OptionBuilder", "method": "withType(Object)", "full_signature": "org.apache.commons.cli.OptionBuilder.withType(Object)"}
+{"index": 40, "class": "org.apache.commons.cli.OptionBuilder", "method": "withValueSeparator()", "full_signature": "org.apache.commons.cli.OptionBuilder.withValueSeparator()"}
+{"index": 41, "class": "org.apache.commons.cli.OptionBuilder", "method": "withValueSeparator(char)", "full_signature": "org.apache.commons.cli.OptionBuilder.withValueSeparator(char)"}
+{"index": 42, "class": "org.apache.commons.cli.Option", "method": "builder()", "full_signature": "org.apache.commons.cli.Option.builder()"}
+{"index": 43, "class": "org.apache.commons.cli.Option", "method": "builder(String)", "full_signature": "org.apache.commons.cli.Option.builder(String)"}
+{"index": 44, "class": "org.apache.commons.cli.Option", "method": "addValue(String)", "full_signature": "org.apache.commons.cli.Option.addValue(String)"}
+{"index": 45, "class": "org.apache.commons.cli.Option", "method": "clone()", "full_signature": "org.apache.commons.cli.Option.clone()"}
+{"index": 46, "class": "org.apache.commons.cli.Option", "method": "equals(Object)", "full_signature": "org.apache.commons.cli.Option.equals(Object)"}
+{"index": 47, "class": "org.apache.commons.cli.Option", "method": "getArgName()", "full_signature": "org.apache.commons.cli.Option.getArgName()"}
+{"index": 48, "class": "org.apache.commons.cli.Option", "method": "getArgs()", "full_signature": "org.apache.commons.cli.Option.getArgs()"}
+{"index": 49, "class": "org.apache.commons.cli.Option", "method": "getDescription()", "full_signature": "org.apache.commons.cli.Option.getDescription()"}
+{"index": 50, "class": "org.apache.commons.cli.Option", "method": "getId()", "full_signature": "org.apache.commons.cli.Option.getId()"}
+{"index": 51, "class": "org.apache.commons.cli.Option", "method": "getLongOpt()", "full_signature": "org.apache.commons.cli.Option.getLongOpt()"}
+{"index": 52, "class": "org.apache.commons.cli.Option", "method": "getOpt()", "full_signature": "org.apache.commons.cli.Option.getOpt()"}
+{"index": 53, "class": "org.apache.commons.cli.Option", "method": "getType()", "full_signature": "org.apache.commons.cli.Option.getType()"}
+{"index": 54, "class": "org.apache.commons.cli.Option", "method": "getValue()", "full_signature": "org.apache.commons.cli.Option.getValue()"}
+{"index": 55, "class": "org.apache.commons.cli.Option", "method": "getValue(int)", "full_signature": "org.apache.commons.cli.Option.getValue(int)"}
+{"index": 56, "class": "org.apache.commons.cli.Option", "method": "getValue(String)", "full_signature": "org.apache.commons.cli.Option.getValue(String)"}
+{"index": 57, "class": "org.apache.commons.cli.Option", "method": "getValues()", "full_signature": "org.apache.commons.cli.Option.getValues()"}
+{"index": 58, "class": "org.apache.commons.cli.Option", "method": "getValueSeparator()", "full_signature": "org.apache.commons.cli.Option.getValueSeparator()"}
+{"index": 59, "class": "org.apache.commons.cli.Option", "method": "getValuesList()", "full_signature": "org.apache.commons.cli.Option.getValuesList()"}
+{"index": 60, "class": "org.apache.commons.cli.Option", "method": "hasArg()", "full_signature": "org.apache.commons.cli.Option.hasArg()"}
+{"index": 61, "class": "org.apache.commons.cli.Option", "method": "hasArgName()", "full_signature": "org.apache.commons.cli.Option.hasArgName()"}
+{"index": 62, "class": "org.apache.commons.cli.Option", "method": "hasArgs()", "full_signature": "org.apache.commons.cli.Option.hasArgs()"}
+{"index": 63, "class": "org.apache.commons.cli.Option", "method": "hashCode()", "full_signature": "org.apache.commons.cli.Option.hashCode()"}
+{"index": 64, "class": "org.apache.commons.cli.Option", "method": "hasLongOpt()", "full_signature": "org.apache.commons.cli.Option.hasLongOpt()"}
+{"index": 65, "class": "org.apache.commons.cli.Option", "method": "hasOptionalArg()", "full_signature": "org.apache.commons.cli.Option.hasOptionalArg()"}
+{"index": 66, "class": "org.apache.commons.cli.Option", "method": "hasValueSeparator()", "full_signature": "org.apache.commons.cli.Option.hasValueSeparator()"}
+{"index": 67, "class": "org.apache.commons.cli.Option", "method": "isRequired()", "full_signature": "org.apache.commons.cli.Option.isRequired()"}
+{"index": 68, "class": "org.apache.commons.cli.Option", "method": "setArgName(String)", "full_signature": "org.apache.commons.cli.Option.setArgName(String)"}
+{"index": 69, "class": "org.apache.commons.cli.Option", "method": "setArgs(int)", "full_signature": "org.apache.commons.cli.Option.setArgs(int)"}
+{"index": 70, "class": "org.apache.commons.cli.Option", "method": "setDescription(String)", "full_signature": "org.apache.commons.cli.Option.setDescription(String)"}
+{"index": 71, "class": "org.apache.commons.cli.Option", "method": "setLongOpt(String)", "full_signature": "org.apache.commons.cli.Option.setLongOpt(String)"}
+{"index": 72, "class": "org.apache.commons.cli.Option", "method": "setOptionalArg(boolean)", "full_signature": "org.apache.commons.cli.Option.setOptionalArg(boolean)"}
+{"index": 73, "class": "org.apache.commons.cli.Option", "method": "setRequired(boolean)", "full_signature": "org.apache.commons.cli.Option.setRequired(boolean)"}
+{"index": 74, "class": "org.apache.commons.cli.Option", "method": "setType(Class<?>)", "full_signature": "org.apache.commons.cli.Option.setType(Class<?>)"}
+{"index": 75, "class": "org.apache.commons.cli.Option", "method": "setType(Object)", "full_signature": "org.apache.commons.cli.Option.setType(Object)"}
+{"index": 76, "class": "org.apache.commons.cli.Option", "method": "setValueSeparator(char)", "full_signature": "org.apache.commons.cli.Option.setValueSeparator(char)"}
+{"index": 77, "class": "org.apache.commons.cli.Option", "method": "toString()", "full_signature": "org.apache.commons.cli.Option.toString()"}
+{"index": 78, "class": "org.apache.commons.cli.Option", "method": "<init>(String, boolean, String)", "full_signature": "org.apache.commons.cli.Option.<init>(String, boolean, String)"}
+{"index": 79, "class": "org.apache.commons.cli.Option", "method": "<init>(String, String)", "full_signature": "org.apache.commons.cli.Option.<init>(String, String)"}
+{"index": 80, "class": "org.apache.commons.cli.Option", "method": "<init>(String, String, boolean, String)", "full_signature": "org.apache.commons.cli.Option.<init>(String, String, boolean, String)"}
+{"index": 81, "class": "org.apache.commons.cli.Option$Builder", "method": "argName(String)", "full_signature": "org.apache.commons.cli.Option$Builder.argName(String)"}
+{"index": 82, "class": "org.apache.commons.cli.Option$Builder", "method": "build()", "full_signature": "org.apache.commons.cli.Option$Builder.build()"}
+{"index": 83, "class": "org.apache.commons.cli.Option$Builder", "method": "desc(String)", "full_signature": "org.apache.commons.cli.Option$Builder.desc(String)"}
+{"index": 84, "class": "org.apache.commons.cli.Option$Builder", "method": "hasArg()", "full_signature": "org.apache.commons.cli.Option$Builder.hasArg()"}
+{"index": 85, "class": "org.apache.commons.cli.Option$Builder", "method": "hasArg(boolean)", "full_signature": "org.apache.commons.cli.Option$Builder.hasArg(boolean)"}
+{"index": 86, "class": "org.apache.commons.cli.Option$Builder", "method": "hasArgs()", "full_signature": "org.apache.commons.cli.Option$Builder.hasArgs()"}
+{"index": 87, "class": "org.apache.commons.cli.Option$Builder", "method": "longOpt(String)", "full_signature": "org.apache.commons.cli.Option$Builder.longOpt(String)"}
+{"index": 88, "class": "org.apache.commons.cli.Option$Builder", "method": "numberOfArgs(int)", "full_signature": "org.apache.commons.cli.Option$Builder.numberOfArgs(int)"}
+{"index": 89, "class": "org.apache.commons.cli.Option$Builder", "method": "option(String)", "full_signature": "org.apache.commons.cli.Option$Builder.option(String)"}
+{"index": 90, "class": "org.apache.commons.cli.Option$Builder", "method": "optionalArg(boolean)", "full_signature": "org.apache.commons.cli.Option$Builder.optionalArg(boolean)"}
+{"index": 91, "class": "org.apache.commons.cli.Option$Builder", "method": "required()", "full_signature": "org.apache.commons.cli.Option$Builder.required()"}
+{"index": 92, "class": "org.apache.commons.cli.Option$Builder", "method": "required(boolean)", "full_signature": "org.apache.commons.cli.Option$Builder.required(boolean)"}
+{"index": 93, "class": "org.apache.commons.cli.Option$Builder", "method": "type(Class<?>)", "full_signature": "org.apache.commons.cli.Option$Builder.type(Class<?>)"}
+{"index": 94, "class": "org.apache.commons.cli.Option$Builder", "method": "valueSeparator()", "full_signature": "org.apache.commons.cli.Option$Builder.valueSeparator()"}
+{"index": 95, "class": "org.apache.commons.cli.Option$Builder", "method": "valueSeparator(char)", "full_signature": "org.apache.commons.cli.Option$Builder.valueSeparator(char)"}
+{"index": 96, "class": "org.apache.commons.cli.HelpFormatter", "method": "getArgName()", "full_signature": "org.apache.commons.cli.HelpFormatter.getArgName()"}
+{"index": 97, "class": "org.apache.commons.cli.HelpFormatter", "method": "getDescPadding()", "full_signature": "org.apache.commons.cli.HelpFormatter.getDescPadding()"}
+{"index": 98, "class": "org.apache.commons.cli.HelpFormatter", "method": "getLeftPadding()", "full_signature": "org.apache.commons.cli.HelpFormatter.getLeftPadding()"}
+{"index": 99, "class": "org.apache.commons.cli.HelpFormatter", "method": "getLongOptPrefix()", "full_signature": "org.apache.commons.cli.HelpFormatter.getLongOptPrefix()"}
+{"index": 100, "class": "org.apache.commons.cli.HelpFormatter", "method": "getLongOptSeparator()", "full_signature": "org.apache.commons.cli.HelpFormatter.getLongOptSeparator()"}
+{"index": 101, "class": "org.apache.commons.cli.HelpFormatter", "method": "getNewLine()", "full_signature": "org.apache.commons.cli.HelpFormatter.getNewLine()"}
+{"index": 102, "class": "org.apache.commons.cli.HelpFormatter", "method": "getOptionComparator()", "full_signature": "org.apache.commons.cli.HelpFormatter.getOptionComparator()"}
+{"index": 103, "class": "org.apache.commons.cli.HelpFormatter", "method": "getOptPrefix()", "full_signature": "org.apache.commons.cli.HelpFormatter.getOptPrefix()"}
+{"index": 104, "class": "org.apache.commons.cli.HelpFormatter", "method": "getSyntaxPrefix()", "full_signature": "org.apache.commons.cli.HelpFormatter.getSyntaxPrefix()"}
+{"index": 105, "class": "org.apache.commons.cli.HelpFormatter", "method": "getWidth()", "full_signature": "org.apache.commons.cli.HelpFormatter.getWidth()"}
+{"index": 106, "class": "org.apache.commons.cli.HelpFormatter", "method": "printHelp(int, String, String, Options, String)", "full_signature": "org.apache.commons.cli.HelpFormatter.printHelp(int, String, String, Options, String)"}
+{"index": 107, "class": "org.apache.commons.cli.HelpFormatter", "method": "printHelp(int, String, String, Options, String, boolean)", "full_signature": "org.apache.commons.cli.HelpFormatter.printHelp(int, String, String, Options, String, boolean)"}
+{"index": 108, "class": "org.apache.commons.cli.HelpFormatter", "method": "printHelp(PrintWriter, int, String, String, Options, int, int, String)", "full_signature": "org.apache.commons.cli.HelpFormatter.printHelp(PrintWriter, int, String, String, Options, int, int, String)"}
+{"index": 109, "class": "org.apache.commons.cli.HelpFormatter", "method": "printHelp(PrintWriter, int, String, String, Options, int, int, String, boolean)", "full_signature": "org.apache.commons.cli.HelpFormatter.printHelp(PrintWriter, int, String, String, Options, int, int, String, boolean)"}
+{"index": 110, "class": "org.apache.commons.cli.HelpFormatter", "method": "printHelp(String, Options)", "full_signature": "org.apache.commons.cli.HelpFormatter.printHelp(String, Options)"}
+{"index": 111, "class": "org.apache.commons.cli.HelpFormatter", "method": "printHelp(String, Options, boolean)", "full_signature": "org.apache.commons.cli.HelpFormatter.printHelp(String, Options, boolean)"}
+{"index": 112, "class": "org.apache.commons.cli.HelpFormatter", "method": "printHelp(String, String, Options, String)", "full_signature": "org.apache.commons.cli.HelpFormatter.printHelp(String, String, Options, String)"}
+{"index": 113, "class": "org.apache.commons.cli.HelpFormatter", "method": "printHelp(String, String, Options, String, boolean)", "full_signature": "org.apache.commons.cli.HelpFormatter.printHelp(String, String, Options, String, boolean)"}
+{"index": 114, "class": "org.apache.commons.cli.HelpFormatter", "method": "printOptions(PrintWriter, int, Options, int, int)", "full_signature": "org.apache.commons.cli.HelpFormatter.printOptions(PrintWriter, int, Options, int, int)"}
+{"index": 115, "class": "org.apache.commons.cli.HelpFormatter", "method": "printUsage(PrintWriter, int, String)", "full_signature": "org.apache.commons.cli.HelpFormatter.printUsage(PrintWriter, int, String)"}
+{"index": 116, "class": "org.apache.commons.cli.HelpFormatter", "method": "printUsage(PrintWriter, int, String, Options)", "full_signature": "org.apache.commons.cli.HelpFormatter.printUsage(PrintWriter, int, String, Options)"}
+{"index": 117, "class": "org.apache.commons.cli.HelpFormatter", "method": "printWrapped(PrintWriter, int, int, String)", "full_signature": "org.apache.commons.cli.HelpFormatter.printWrapped(PrintWriter, int, int, String)"}
+{"index": 118, "class": "org.apache.commons.cli.HelpFormatter", "method": "printWrapped(PrintWriter, int, String)", "full_signature": "org.apache.commons.cli.HelpFormatter.printWrapped(PrintWriter, int, String)"}
+{"index": 119, "class": "org.apache.commons.cli.HelpFormatter", "method": "setArgName(String)", "full_signature": "org.apache.commons.cli.HelpFormatter.setArgName(String)"}
+{"index": 120, "class": "org.apache.commons.cli.HelpFormatter", "method": "setDescPadding(int)", "full_signature": "org.apache.commons.cli.HelpFormatter.setDescPadding(int)"}
+{"index": 121, "class": "org.apache.commons.cli.HelpFormatter", "method": "setLeftPadding(int)", "full_signature": "org.apache.commons.cli.HelpFormatter.setLeftPadding(int)"}
+{"index": 122, "class": "org.apache.commons.cli.HelpFormatter", "method": "setLongOptPrefix(String)", "full_signature": "org.apache.commons.cli.HelpFormatter.setLongOptPrefix(String)"}
+{"index": 123, "class": "org.apache.commons.cli.HelpFormatter", "method": "setLongOptSeparator(String)", "full_signature": "org.apache.commons.cli.HelpFormatter.setLongOptSeparator(String)"}
+{"index": 124, "class": "org.apache.commons.cli.HelpFormatter", "method": "setNewLine(String)", "full_signature": "org.apache.commons.cli.HelpFormatter.setNewLine(String)"}
+{"index": 125, "class": "org.apache.commons.cli.HelpFormatter", "method": "setOptionComparator(Comparator<Option>)", "full_signature": "org.apache.commons.cli.HelpFormatter.setOptionComparator(Comparator<Option>)"}
+{"index": 126, "class": "org.apache.commons.cli.HelpFormatter", "method": "setOptPrefix(String)", "full_signature": "org.apache.commons.cli.HelpFormatter.setOptPrefix(String)"}
+{"index": 127, "class": "org.apache.commons.cli.HelpFormatter", "method": "setSyntaxPrefix(String)", "full_signature": "org.apache.commons.cli.HelpFormatter.setSyntaxPrefix(String)"}
+{"index": 128, "class": "org.apache.commons.cli.HelpFormatter", "method": "setWidth(int)", "full_signature": "org.apache.commons.cli.HelpFormatter.setWidth(int)"}
+{"index": 129, "class": "org.apache.commons.cli.HelpFormatter$OptionComparator", "method": "compare(Option, Option)", "full_signature": "org.apache.commons.cli.HelpFormatter$OptionComparator.compare(Option, Option)"}
+{"index": 130, "class": "org.apache.commons.cli.CommandLine", "method": "getArgList()", "full_signature": "org.apache.commons.cli.CommandLine.getArgList()"}
+{"index": 131, "class": "org.apache.commons.cli.CommandLine", "method": "getArgs()", "full_signature": "org.apache.commons.cli.CommandLine.getArgs()"}
+{"index": 132, "class": "org.apache.commons.cli.CommandLine", "method": "getOptionObject(char)", "full_signature": "org.apache.commons.cli.CommandLine.getOptionObject(char)"}
+{"index": 133, "class": "org.apache.commons.cli.CommandLine", "method": "getOptionObject(String)", "full_signature": "org.apache.commons.cli.CommandLine.getOptionObject(String)"}
+{"index": 134, "class": "org.apache.commons.cli.CommandLine", "method": "getOptionProperties(Option)", "full_signature": "org.apache.commons.cli.CommandLine.getOptionProperties(Option)"}
+{"index": 135, "class": "org.apache.commons.cli.CommandLine", "method": "getOptionProperties(String)", "full_signature": "org.apache.commons.cli.CommandLine.getOptionProperties(String)"}
+{"index": 136, "class": "org.apache.commons.cli.CommandLine", "method": "getOptions()", "full_signature": "org.apache.commons.cli.CommandLine.getOptions()"}
+{"index": 137, "class": "org.apache.commons.cli.CommandLine", "method": "getOptionValue(char)", "full_signature": "org.apache.commons.cli.CommandLine.getOptionValue(char)"}
+{"index": 138, "class": "org.apache.commons.cli.CommandLine", "method": "getOptionValue(char, String)", "full_signature": "org.apache.commons.cli.CommandLine.getOptionValue(char, String)"}
+{"index": 139, "class": "org.apache.commons.cli.CommandLine", "method": "getOptionValue(Option)", "full_signature": "org.apache.commons.cli.CommandLine.getOptionValue(Option)"}
+{"index": 140, "class": "org.apache.commons.cli.CommandLine", "method": "getOptionValue(Option, String)", "full_signature": "org.apache.commons.cli.CommandLine.getOptionValue(Option, String)"}
+{"index": 141, "class": "org.apache.commons.cli.CommandLine", "method": "getOptionValue(String)", "full_signature": "org.apache.commons.cli.CommandLine.getOptionValue(String)"}
+{"index": 142, "class": "org.apache.commons.cli.CommandLine", "method": "getOptionValue(String, String)", "full_signature": "org.apache.commons.cli.CommandLine.getOptionValue(String, String)"}
+{"index": 143, "class": "org.apache.commons.cli.CommandLine", "method": "getOptionValues(char)", "full_signature": "org.apache.commons.cli.CommandLine.getOptionValues(char)"}
+{"index": 144, "class": "org.apache.commons.cli.CommandLine", "method": "getOptionValues(Option)", "full_signature": "org.apache.commons.cli.CommandLine.getOptionValues(Option)"}
+{"index": 145, "class": "org.apache.commons.cli.CommandLine", "method": "getOptionValues(String)", "full_signature": "org.apache.commons.cli.CommandLine.getOptionValues(String)"}
+{"index": 146, "class": "org.apache.commons.cli.CommandLine", "method": "getParsedOptionValue(char)", "full_signature": "org.apache.commons.cli.CommandLine.getParsedOptionValue(char)"}
+{"index": 147, "class": "org.apache.commons.cli.CommandLine", "method": "getParsedOptionValue(Option)", "full_signature": "org.apache.commons.cli.CommandLine.getParsedOptionValue(Option)"}
+{"index": 148, "class": "org.apache.commons.cli.CommandLine", "method": "getParsedOptionValue(String)", "full_signature": "org.apache.commons.cli.CommandLine.getParsedOptionValue(String)"}
+{"index": 149, "class": "org.apache.commons.cli.CommandLine", "method": "hasOption(char)", "full_signature": "org.apache.commons.cli.CommandLine.hasOption(char)"}
+{"index": 150, "class": "org.apache.commons.cli.CommandLine", "method": "hasOption(Option)", "full_signature": "org.apache.commons.cli.CommandLine.hasOption(Option)"}
+{"index": 151, "class": "org.apache.commons.cli.CommandLine", "method": "hasOption(String)", "full_signature": "org.apache.commons.cli.CommandLine.hasOption(String)"}
+{"index": 152, "class": "org.apache.commons.cli.CommandLine", "method": "iterator()", "full_signature": "org.apache.commons.cli.CommandLine.iterator()"}
+{"index": 153, "class": "org.apache.commons.cli.CommandLine$Builder", "method": "addArg(String)", "full_signature": "org.apache.commons.cli.CommandLine$Builder.addArg(String)"}
+{"index": 154, "class": "org.apache.commons.cli.CommandLine$Builder", "method": "addOption(Option)", "full_signature": "org.apache.commons.cli.CommandLine$Builder.addOption(Option)"}
+{"index": 155, "class": "org.apache.commons.cli.CommandLine$Builder", "method": "build()", "full_signature": "org.apache.commons.cli.CommandLine$Builder.build()"}
+{"index": 156, "class": "org.apache.commons.cli.PatternOptionBuilder", "method": "getValueClass(char)", "full_signature": "org.apache.commons.cli.PatternOptionBuilder.getValueClass(char)"}
+{"index": 157, "class": "org.apache.commons.cli.PatternOptionBuilder", "method": "isValueCode(char)", "full_signature": "org.apache.commons.cli.PatternOptionBuilder.isValueCode(char)"}
+{"index": 158, "class": "org.apache.commons.cli.PatternOptionBuilder", "method": "parsePattern(String)", "full_signature": "org.apache.commons.cli.PatternOptionBuilder.parsePattern(String)"}
+{"index": 159, "class": "org.apache.commons.cli.ParseException", "method": "<init>(String)", "full_signature": "org.apache.commons.cli.ParseException.<init>(String)"}
+{"index": 160, "class": "org.apache.commons.cli.OptionGroup", "method": "addOption(Option)", "full_signature": "org.apache.commons.cli.OptionGroup.addOption(Option)"}
+{"index": 161, "class": "org.apache.commons.cli.OptionGroup", "method": "getNames()", "full_signature": "org.apache.commons.cli.OptionGroup.getNames()"}
+{"index": 162, "class": "org.apache.commons.cli.OptionGroup", "method": "getOptions()", "full_signature": "org.apache.commons.cli.OptionGroup.getOptions()"}
+{"index": 163, "class": "org.apache.commons.cli.OptionGroup", "method": "getSelected()", "full_signature": "org.apache.commons.cli.OptionGroup.getSelected()"}
+{"index": 164, "class": "org.apache.commons.cli.OptionGroup", "method": "isRequired()", "full_signature": "org.apache.commons.cli.OptionGroup.isRequired()"}
+{"index": 165, "class": "org.apache.commons.cli.OptionGroup", "method": "setRequired(boolean)", "full_signature": "org.apache.commons.cli.OptionGroup.setRequired(boolean)"}
+{"index": 166, "class": "org.apache.commons.cli.OptionGroup", "method": "setSelected(Option)", "full_signature": "org.apache.commons.cli.OptionGroup.setSelected(Option)"}
+{"index": 167, "class": "org.apache.commons.cli.OptionGroup", "method": "toString()", "full_signature": "org.apache.commons.cli.OptionGroup.toString()"}
+{"index": 168, "class": "org.apache.commons.cli.AmbiguousOptionException", "method": "getMatchingOptions()", "full_signature": "org.apache.commons.cli.AmbiguousOptionException.getMatchingOptions()"}
+{"index": 169, "class": "org.apache.commons.cli.AmbiguousOptionException", "method": "<init>(String, Collection<String>)", "full_signature": "org.apache.commons.cli.AmbiguousOptionException.<init>(String, Collection<String>)"}
+{"index": 170, "class": "org.apache.commons.cli.CommandLineParser", "method": "parse(Options, String[])", "full_signature": "org.apache.commons.cli.CommandLineParser.parse(Options, String[])"}
+{"index": 171, "class": "org.apache.commons.cli.CommandLineParser", "method": "parse(Options, String[], boolean)", "full_signature": "org.apache.commons.cli.CommandLineParser.parse(Options, String[], boolean)"}
+{"index": 172, "class": "org.apache.commons.cli.DefaultParser", "method": "builder()", "full_signature": "org.apache.commons.cli.DefaultParser.builder()"}
+{"index": 173, "class": "org.apache.commons.cli.DefaultParser", "method": "parse(Options, String[])", "full_signature": "org.apache.commons.cli.DefaultParser.parse(Options, String[])"}
+{"index": 174, "class": "org.apache.commons.cli.DefaultParser", "method": "parse(Options, String[], boolean)", "full_signature": "org.apache.commons.cli.DefaultParser.parse(Options, String[], boolean)"}
+{"index": 175, "class": "org.apache.commons.cli.DefaultParser", "method": "parse(Options, String[], Properties)", "full_signature": "org.apache.commons.cli.DefaultParser.parse(Options, String[], Properties)"}
+{"index": 176, "class": "org.apache.commons.cli.DefaultParser", "method": "parse(Options, String[], Properties, boolean)", "full_signature": "org.apache.commons.cli.DefaultParser.parse(Options, String[], Properties, boolean)"}
+{"index": 177, "class": "org.apache.commons.cli.DefaultParser", "method": "<init>()", "full_signature": "org.apache.commons.cli.DefaultParser.<init>()"}
+{"index": 178, "class": "org.apache.commons.cli.DefaultParser", "method": "<init>(boolean)", "full_signature": "org.apache.commons.cli.DefaultParser.<init>(boolean)"}
+{"index": 179, "class": "org.apache.commons.cli.DefaultParser$Builder", "method": "build()", "full_signature": "org.apache.commons.cli.DefaultParser$Builder.build()"}
+{"index": 180, "class": "org.apache.commons.cli.DefaultParser$Builder", "method": "setAllowPartialMatching(boolean)", "full_signature": "org.apache.commons.cli.DefaultParser$Builder.setAllowPartialMatching(boolean)"}
+{"index": 181, "class": "org.apache.commons.cli.DefaultParser$Builder", "method": "setStripLeadingAndTrailingQuotes(Boolean)", "full_signature": "org.apache.commons.cli.DefaultParser$Builder.setStripLeadingAndTrailingQuotes(Boolean)"}
+{"index": 182, "class": "org.apache.commons.cli.Options", "method": "addOption(Option)", "full_signature": "org.apache.commons.cli.Options.addOption(Option)"}
+{"index": 183, "class": "org.apache.commons.cli.Options", "method": "addOption(String, boolean, String)", "full_signature": "org.apache.commons.cli.Options.addOption(String, boolean, String)"}
+{"index": 184, "class": "org.apache.commons.cli.Options", "method": "addOption(String, String)", "full_signature": "org.apache.commons.cli.Options.addOption(String, String)"}
+{"index": 185, "class": "org.apache.commons.cli.Options", "method": "addOption(String, String, boolean, String)", "full_signature": "org.apache.commons.cli.Options.addOption(String, String, boolean, String)"}
+{"index": 186, "class": "org.apache.commons.cli.Options", "method": "addOptionGroup(OptionGroup)", "full_signature": "org.apache.commons.cli.Options.addOptionGroup(OptionGroup)"}
+{"index": 187, "class": "org.apache.commons.cli.Options", "method": "addRequiredOption(String, String, boolean, String)", "full_signature": "org.apache.commons.cli.Options.addRequiredOption(String, String, boolean, String)"}
+{"index": 188, "class": "org.apache.commons.cli.Options", "method": "getMatchingOptions(String)", "full_signature": "org.apache.commons.cli.Options.getMatchingOptions(String)"}
+{"index": 189, "class": "org.apache.commons.cli.Options", "method": "getOption(String)", "full_signature": "org.apache.commons.cli.Options.getOption(String)"}
+{"index": 190, "class": "org.apache.commons.cli.Options", "method": "getOptionGroup(Option)", "full_signature": "org.apache.commons.cli.Options.getOptionGroup(Option)"}
+{"index": 191, "class": "org.apache.commons.cli.Options", "method": "getOptions()", "full_signature": "org.apache.commons.cli.Options.getOptions()"}
+{"index": 192, "class": "org.apache.commons.cli.Options", "method": "getRequiredOptions()", "full_signature": "org.apache.commons.cli.Options.getRequiredOptions()"}
+{"index": 193, "class": "org.apache.commons.cli.Options", "method": "hasLongOption(String)", "full_signature": "org.apache.commons.cli.Options.hasLongOption(String)"}
+{"index": 194, "class": "org.apache.commons.cli.Options", "method": "hasOption(String)", "full_signature": "org.apache.commons.cli.Options.hasOption(String)"}
+{"index": 195, "class": "org.apache.commons.cli.Options", "method": "hasShortOption(String)", "full_signature": "org.apache.commons.cli.Options.hasShortOption(String)"}
+{"index": 196, "class": "org.apache.commons.cli.Options", "method": "toString()", "full_signature": "org.apache.commons.cli.Options.toString()"}
+{"index": 197, "class": "org.apache.commons.cli.UnrecognizedOptionException", "method": "getOption()", "full_signature": "org.apache.commons.cli.UnrecognizedOptionException.getOption()"}
+{"index": 198, "class": "org.apache.commons.cli.UnrecognizedOptionException", "method": "<init>(String)", "full_signature": "org.apache.commons.cli.UnrecognizedOptionException.<init>(String)"}
+{"index": 199, "class": "org.apache.commons.cli.UnrecognizedOptionException", "method": "<init>(String, String)", "full_signature": "org.apache.commons.cli.UnrecognizedOptionException.<init>(String, String)"}
+{"index": 200, "class": "org.apache.commons.cli.MissingArgumentException", "method": "getOption()", "full_signature": "org.apache.commons.cli.MissingArgumentException.getOption()"}
+{"index": 201, "class": "org.apache.commons.cli.MissingArgumentException", "method": "<init>(Option)", "full_signature": "org.apache.commons.cli.MissingArgumentException.<init>(Option)"}
+{"index": 202, "class": "org.apache.commons.cli.MissingArgumentException", "method": "<init>(String)", "full_signature": "org.apache.commons.cli.MissingArgumentException.<init>(String)"}
